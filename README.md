@@ -1,4 +1,1 @@
 # services
-/post
-/comment
-/client
